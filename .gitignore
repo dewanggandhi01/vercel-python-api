@@ -1,2 +1,6 @@
 venv
 __pycache__
+
+.vercel
+venv
+__pycache__
